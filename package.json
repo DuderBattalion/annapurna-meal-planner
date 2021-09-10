@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DuderBattalion/feedme-ai-meal-planner/issues"
   },
-  "homepage": "https://github.com/DuderBattalion/feedme-ai-meal-planner#readme"
+  "homepage": "https://github.com/DuderBattalion/feedme-ai-meal-planner#readme",
+  "dependencies": {
+    "xlsx": "^0.17.1"
+  }
 }
